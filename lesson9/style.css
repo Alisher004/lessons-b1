@@ -1,0 +1,16 @@
+.active{
+    color: red;
+}
+img{
+    width: 400px;
+}
+#on{
+    font-size: 24px;
+    background-color: blue;
+    color: white;
+}
+#off{
+    font-size: 24px;
+    background-color: red;
+    color: white;
+}
