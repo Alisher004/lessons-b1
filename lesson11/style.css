@@ -1,0 +1,33 @@
+.container{
+    width: 600px;
+    margin: auto;
+    box-shadow: 0 2px 4px;
+    padding: 20px;
+    border-radius: 14px;
+    text-align: center;
+}
+#input{
+    width: 67%;
+    font-size: 18px;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+ul{
+    padding: 0;
+}
+ul li{
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

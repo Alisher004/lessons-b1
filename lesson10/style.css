@@ -1,0 +1,26 @@
+.content{
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px;
+    text-align: center;
+    margin: auto;
+}
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 10px auto;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding:5px 15px;
+    border: none;
+    font-size: 25px;
+}
+span{
+    font-size: 25px;
+}
